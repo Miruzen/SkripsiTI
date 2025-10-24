@@ -1,0 +1,15 @@
+playwright
+pandas
+tqdm
+yfinance
+matplotlib
+transformers
+bs4 
+requests
+os
+torch
+sklearn
+openpyxl
+numpy
+datasets
+seaborn

@@ -1,0 +1,1 @@
+LSTM Data prep > Hyper parameter > LSTM Train > LSTM Anlisa hasil 
