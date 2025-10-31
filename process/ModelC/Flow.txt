@@ -1,1 +1,6 @@
 LSTM Data prep > Hyper parameter > LSTM Train > LSTM Anlisa hasil 
+
+LSTM Data Prep = Menentukan Fitur apa saja yang ingin dijadikan Input kedalam model LSTM 
+Hyper Parameter = Setelah mendapatkan fitur yang diinginkan, model akan di latih untuk mencari hyperparameter terbaik 
+LSTM Train = Setelah Hyperparameter terbaik didapatkan, maka model sudah dapat dilatih 
+LSTM Analisa Hasil = Bertugas untuk mengevaluasi dan memvisualisasikan hasil dari LSTM Train 
